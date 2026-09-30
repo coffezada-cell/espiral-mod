@@ -1,92 +1,128 @@
 # Espiral Arsenal
 
-[Baixar o JAR mais recente](https://github.com/coffezada-cell/espiral-mod/releases/latest)
+Mod para **Minecraft Java 1.20.1**, feito com **Fabric**. Confira as novidades de cada versão e baixe o JAR desejado.
 
-[Todas as versões disponíveis](https://github.com/coffezada-cell/espiral-mod/releases)
+| 📦 Versão atual | 📚 Histórico completo |
+|:--|:--|
+| [**Baixar Espiral Arsenal 0.3.0**](https://github.com/coffezada-cell/espiral-mod/releases/download/v0.3.0/espiral-arsenal-fabric-0.3.0.jar) | [Ver todas as releases](https://github.com/coffezada-cell/espiral-mod/releases) |
 
-## Feed de atualizações
+## 📰 Atualizações
 
-### 0.3.0
+### 🆕 v0.3.0 · Bolsas, componentes e círculo ritualístico
 
-- Adiciona bolsas elementais com durabilidade e componentes para conjuração, receitas de munições, máquinas de fliperama e ladrilhos de barro.
-- Organiza as abas do inventário criativo e atualiza o Machado Mutilador, rituais, maldições e HUD.
-- Ativa a bancada ritualística com um círculo de redstone; é possível consultar rituais sem ativá-la, mas equipar ou remover exige o símbolo.
-- [Baixar esta versão](https://github.com/coffezada-cell/espiral-mod/releases/tag/v0.3.0)
+A atualização amplia a preparação de rituais e a decoração do mundo.
 
-### 0.2.12
+- **Bolsas elementais:** Sangue, Morte, Energia e Conhecimento têm 65 pontos de durabilidade e gastam 1 por conjuração. Com 1 ponto restante, a bolsa não quebra, mas não permite conjurar; combinar a bolsa com um componente do mesmo elemento recupera 3 pontos. Medo não usa bolsa nem componente.
+- **Componentes e rituais:** adiciona componentes elementais e atualiza efeitos e descrições, incluindo Dilacerar. Revê Sombria, Lancinante e Vitalidade.
+- **Bancada Ritualística:** forma um quadrado 3×3 com redstone ao redor da bancada para ativar o círculo. A redstone é consumida com partículas; sem o símbolo, ainda é possível consultar rituais, mas equipar ou remover exige a ativação.
+- **Itens e construção:** adiciona receitas para munições, arcades e ladrilhos de barro com variantes de laje, escada e muro. O James Bones também aceita peixe cru ou assado.
+- **Combate e interface:** o Machado Mutilador causa 16 de dano ao arremessar e precisa ser carregado. Separa as abas criativas e atualiza HUD, ícones e papéis de ritual.
 
-- Adiciona máquinas de fliperama, Tijolos de Lodo e pinturas; atualiza modelos, ícones elementais e papéis de ritual.
-- Corrige HUD de dano, efeitos de armas e habilidades, descrições e modelos das bancadas. Os overlays dos capacetes ficam atrás da hotbar.
-- [Baixar esta versão](https://github.com/coffezada-cell/espiral-mod/releases/tag/v0.2.12)
+[⬇️ Baixar v0.3.0](https://github.com/coffezada-cell/espiral-mod/releases/download/v0.3.0/espiral-arsenal-fabric-0.3.0.jar) · [Ver detalhes da release](https://github.com/coffezada-cell/espiral-mod/releases/tag/v0.3.0)
 
-### 0.2.11
+---
 
-- Adiciona integração opcional com Better Combat para posturas e combos de armas corpo a corpo.
-- Aprimora a recarga individual de pistolas, revólveres e espingardas, incluindo cancelamento ao trocar de arma.
-- [Baixar esta versão](https://github.com/coffezada-cell/espiral-mod/releases/tag/v0.2.11)
+### v0.2.12 · Ajustes de HUD, bancadas e itens decorativos
 
-### 0.2.10
+- Adiciona quatro máquinas de fliperama, o bloco Tijolos de Lodo e três pinturas; atualiza modelos da Alabarda de Conhecimento, do Capacete do ???, da Lança e da Pistola da Dara.
+- Atualiza ícones elementais e papéis de ritual. Os overlays dos capacetes ficam atrás da hotbar, sem reduzir o tamanho da textura.
+- Corrige cálculo de dano no HUD e efeitos de armas e habilidades; revisa descrições de 39 itens e a exibição das pinturas na aba criativa.
 
-- Adiciona Pistola, Revólver, Sniper, Rifle, Fuzil M4 e Espingarda, com carregadores e munições próprias.
-- Implementa mira, zoom da Sniper, disparo automático da M4 e recarga pela tecla R.
-- [Baixar esta versão](https://github.com/coffezada-cell/espiral-mod/releases/tag/v0.2.10)
+[⬇️ Baixar v0.2.12](https://github.com/coffezada-cell/espiral-mod/releases/download/v0.2.12/espiral-arsenal-fabric-0.2.12.jar) · [Ver detalhes da release](https://github.com/coffezada-cell/espiral-mod/releases/tag/v0.2.12)
 
-### 0.2.9
+### v0.2.11 · Novas armas e integração com Better Combat
 
-- Adiciona as Bestiais Contida e Descontrolada e atualiza armas corpo a corpo, incluindo o Machado Mutilador.
-- Implementa Manoplas nas duas mãos, golpes alternados e habilidade temporária que consome PE; armas vanilla passam a funcionar com Amaldiçoar Arma.
-- [Baixar esta versão](https://github.com/coffezada-cell/espiral-mod/releases/tag/v0.2.9)
+- Adiciona Antena, Ereshkigal, Leonora, Taco do Xande, Skate do Xande, Pistola da Dara, uma nova Sniper e Capacete do ???.
+- Acrescenta compatibilidade opcional com Better Combat para combos e posturas de armas corpo a corpo.
+- Aprimora a recarga individual de pistolas, revólveres e espingardas: trocar de arma cancela a recarga, e cada cartucho é inserido separadamente.
 
-### 0.2.8
+[⬇️ Baixar v0.2.11](https://github.com/coffezada-cell/espiral-mod/releases/download/v0.2.11/espiral-arsenal-fabric-0.2.11.jar) · [Ver detalhes da release](https://github.com/coffezada-cell/espiral-mod/releases/tag/v0.2.11)
 
-- Adiciona HUD para atributos da arma e ritual selecionado, além de Velocidade Mortal, Guiado pelos Sussurros e Zona dos Sussurros.
-- Atualiza armas, áreas dos rituais e organização da biblioteca ritualística.
-- [Baixar esta versão](https://github.com/coffezada-cell/espiral-mod/releases/tag/v0.2.8)
+### v0.2.10 · Armas de fogo e sistema de munição
 
-### 0.2.7
+- Adiciona Pistola, Revólver, Sniper, Rifle, Fuzil M4 e Espingarda, cada um com alcance, dano, cadência, carregador e munição correspondente.
+- Introduz mira ao segurar o botão direito, zoom e retículo para a Sniper, disparo automático da M4 e recarga pela tecla **R**.
+- Atualiza HUD e descrições para exibir munição e estado do carregador.
 
-- Reformula a Bancada Ritualística com biblioteca permanente e paginada para aprender, equipar e remover rituais.
-- Preserva a progressão de espaços ativos e migra rituais de mundos existentes.
-- [Baixar esta versão](https://github.com/coffezada-cell/espiral-mod/releases/tag/v0.2.7)
+[⬇️ Baixar v0.2.10](https://github.com/coffezada-cell/espiral-mod/releases/download/v0.2.10/espiral-arsenal-fabric-0.2.10.jar) · [Ver detalhes da release](https://github.com/coffezada-cell/espiral-mod/releases/tag/v0.2.10)
 
-### 0.2.6
+### v0.2.9 · Manoplas e arsenal corpo a corpo
 
-- Expande a biblioteca para 23 rituais dos elementos Sangue, Morte, Energia e Conhecimento.
-- Adiciona efeitos de área, teletransportes, dano elemental, partículas próprias e interações com PE.
-- [Baixar esta versão](https://github.com/coffezada-cell/espiral-mod/releases/tag/v0.2.6)
+- Adiciona Bestial Contida e Bestial Descontrolada e ajusta Machado Mutilador, Ademar e outras armas.
+- As Manoplas ocupam as duas mãos: ataques alternam entre esquerda e direita, enquanto a mão secundária fica protegida. A habilidade delas gasta PE e aumenta o dano por alguns segundos.
+- Armas vanilla recebem categorias e podem receber o efeito de Amaldiçoar Arma; HUD passa a refletir bônus ativos.
 
-### 0.2.5
+[⬇️ Baixar v0.2.9](https://github.com/coffezada-cell/espiral-mod/releases/download/v0.2.9/espiral-arsenal-fabric-0.2.9.jar) · [Ver detalhes da release](https://github.com/coffezada-cell/espiral-mod/releases/tag/v0.2.9)
 
-- Consolida as mudanças desenvolvidas na etapa 0.2.4: adiciona seletor e conjuração de rituais, barra de PE, partículas elementais e bancadas direcionais.
-- Atualiza controles, disparos e recuo das armas de fogo, modelos da Katana e do Colosso.
-- [Baixar esta versão](https://github.com/coffezada-cell/espiral-mod/releases/tag/v0.2.5)
+### v0.2.8 · HUD de combate e novos rituais
 
-### 0.2.3
+- Adiciona Velocidade Mortal, Guiado pelos Sussurros e Zona dos Sussurros, com efeitos e áreas próprios.
+- O HUD passa a mostrar atributos da arma e ritual selecionado; reorganiza a barra de PE e incorpora bônus de chance crítica.
+- Atualiza a Alabarda de Conhecimento, amplia áreas de rituais e organiza a biblioteca por páginas.
 
-- Adiciona PE persistente com HUD, categorias de itens, dano e vulnerabilidades elementais.
-- Introduz modificações e maldições de armas, bancadas, papéis de rituais e progressão inicial.
-- [Baixar esta versão](https://github.com/coffezada-cell/espiral-mod/releases/tag/v0.2.3)
+[⬇️ Baixar v0.2.8](https://github.com/coffezada-cell/espiral-mod/releases/download/v0.2.8/espiral-arsenal-fabric-0.2.8.jar) · [Ver detalhes da release](https://github.com/coffezada-cell/espiral-mod/releases/tag/v0.2.8)
 
-### 0.2.1
+### v0.2.7 · Biblioteca da Bancada Ritualística
 
-- Reformula as partículas de disparo com traçadores, clarões discretos e impactos concentrados nos alvos.
-- Atualiza efeitos da Doze de Sangue e do Aguiar e corrige o modelo da Katana Xeno.
-- [Baixar esta versão](https://github.com/coffezada-cell/espiral-mod/releases/tag/v0.2.1)
+- Reformula a bancada para aprender rituais por papéis e organizar os rituais conhecidos em uma biblioteca paginada.
+- Permite preparar e remover rituais pela interface; duplicatas não são consumidas e espaços ativos continuam desbloqueados pela progressão.
+- Migra para a biblioteca os rituais ativos de mundos existentes e corrige texturas dos machados.
 
-### 0.2.0
+[⬇️ Baixar v0.2.7](https://github.com/coffezada-cell/espiral-mod/releases/download/v0.2.7/espiral-arsenal-fabric-0.2.7.jar) · [Ver detalhes da release](https://github.com/coffezada-cell/espiral-mod/releases/tag/v0.2.7)
+
+### v0.2.6 · Expansão para 23 rituais
+
+- Adiciona 18 rituais, expandindo opções de Sangue, Morte, Energia e Conhecimento, como Purgatório, Dilacerar, Deflagração, Salto Fantasma e Teletransporte das Sombras.
+- Implementa custos de PE, dano elemental, efeitos persistentes, partículas próprias, teletransportes e o efeito Paralisado dos Tentáculos de Lodo.
+- Ajusta as regras de conjuração, incluindo o comportamento de Purgatório e Ódio Incontrolável.
+
+[⬇️ Baixar v0.2.6](https://github.com/coffezada-cell/espiral-mod/releases/download/v0.2.6/espiral-arsenal-fabric-0.2.6.jar) · [Ver detalhes da release](https://github.com/coffezada-cell/espiral-mod/releases/tag/v0.2.6)
+
+### v0.2.5 · Controles de rituais e combate revisado
+
+- Consolida mudanças da etapa 0.2.4: seletor de rituais, conjuração pela tecla **V**, barra de PE e efeitos visuais por elemento.
+- Armas de fogo passam a disparar pelo clique esquerdo, com recuo de câmera; Doze Alheia e Doze de Sangue podem alternar tiros enquanto o botão é segurado.
+- Atualiza os modelos da Katana, do Colosso e das bancadas; bancada fica direcionada ao jogador ao ser colocada.
+
+[⬇️ Baixar v0.2.5](https://github.com/coffezada-cell/espiral-mod/releases/download/v0.2.5/espiral-arsenal-fabric-0.2.5.jar) · [Ver detalhes da release](https://github.com/coffezada-cell/espiral-mod/releases/tag/v0.2.5)
+
+### v0.2.3 · Progressão, elementos e modificações de armas
+
+- Adiciona PE persistente, HUD, categorias de itens e regras de dano e vulnerabilidade elemental.
+- Introduz modificações e maldições aplicáveis às armas, além das bancadas de Treinamento e Ritualística.
+- Papéis de rituais e habilidades podem ser encontrados em baús; começa a progressão de habilidades e espaços de rituais.
+
+[⬇️ Baixar v0.2.3](https://github.com/coffezada-cell/espiral-mod/releases/download/v0.2.3/espiral-arsenal-fabric-0.2.3.jar) · [Ver detalhes da release](https://github.com/coffezada-cell/espiral-mod/releases/tag/v0.2.3)
+
+### v0.2.1 · Efeitos visuais de disparo
+
+- Refaz as partículas para não bloquear a visão: adiciona traçadores finos, clarões discretos e impactos concentrados nos alvos.
+- Atualiza os efeitos da Doze de Sangue e a trilha do Aguiar arremessável; corrige o modelo da Katana Xeno.
+
+[⬇️ Baixar v0.2.1](https://github.com/coffezada-cell/espiral-mod/releases/download/v0.2.1/espiral-arsenal-fabric-0.2.1.jar) · [Ver detalhes da release](https://github.com/coffezada-cell/espiral-mod/releases/tag/v0.2.1)
+
+### v0.2.0 · Expansão do arsenal
 
 - Adiciona Katana Ágata, Fígora, Doze Boris, Doze de Sangue, Katana Xeno e Xenoblade.
-- Implementa recuo das armas de fogo, animação das Manoplas, disparos perfurantes e ataques em área.
-- [Baixar esta versão](https://github.com/coffezada-cell/espiral-mod/releases/tag/v0.2.0)
+- Implementa recuo de câmera, animação das Manoplas, disparos perfurantes, dano em área e animação do Aguiar arremessável.
+- Corrige partículas, animações e integração dos modelos introduzidos na versão experimental.
 
-### 0.1.1 — Experimental
+[⬇️ Baixar v0.2.0](https://github.com/coffezada-cell/espiral-mod/releases/download/v0.2.0/espiral-arsenal-fabric-0.2.0.jar) · [Ver detalhes da release](https://github.com/coffezada-cell/espiral-mod/releases/tag/v0.2.0)
 
-- Inicia disparos perfurantes da Doze Alheia e do Arcabuz, dano em área e efeitos visuais de disparo.
-- [Baixar esta versão](https://github.com/coffezada-cell/espiral-mod/releases/tag/v0.1.1)
+### v0.1.1 · Experimental
 
-### 0.1.0
+- Primeira implementação de disparos perfurantes da Doze Alheia e do Arcabuz, além de dano em área.
+- Inicia partículas e animações de disparo; efeitos visuais ainda eram experimentais.
 
-- Primeiro protótipo jogável, com armas e modelos iniciais, atributos de combate e sistema de Pontos de Esforço (PE).
-- [Baixar esta versão](https://github.com/coffezada-cell/espiral-mod/releases/tag/v0.1.0)
+[⬇️ Baixar v0.1.1](https://github.com/coffezada-cell/espiral-mod/releases/download/v0.1.1/espiral-arsenal-fabric-0.1.1.jar) · [Ver detalhes da release](https://github.com/coffezada-cell/espiral-mod/releases/tag/v0.1.1)
+
+### v0.1.0 · Protótipo inicial
+
+- Primeiro protótipo jogável, com armas e modelos 3D iniciais, atributos de combate e sistema de Pontos de Esforço (PE).
+- Base para Minecraft Java 1.20.1 com Fabric e Create Fabric.
+
+[⬇️ Baixar v0.1.0](https://github.com/coffezada-cell/espiral-mod/releases/download/v0.1.0/espiral-arsenal-fabric-0.1.0.jar) · [Ver detalhes da release](https://github.com/coffezada-cell/espiral-mod/releases/tag/v0.1.0)
+
+---
 
 Este repositório é destinado à distribuição do mod. O código-fonte e os arquivos de desenvolvimento não são publicados aqui.
