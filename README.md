@@ -17,6 +17,9 @@ Adiciona oito alimentos com efeitos próprios, recuperação de PE e lore no inv
 - **BomBoro** causa 1 de dano e sua recuperação de PE diminui a cada uso: começa em 4, pode chegar a valores negativos e volta a 4 quando o jogador dorme. Tem 4 de durabilidade. **Manteiga na Manteiga** restaura 20 de fome, 20 de saturação e 5 PE; após 5 minutos, remove 10 PE e causa fome II por 4 segundos. **Paçoca** restaura 1 pernil de fome, 10 de saturação e 8 PE.
 - Adiciona a aba criativa **Espiral: Alimentos** e aplica as texturas próprias enviadas. Maiser, Desértica e Corotinho Sdol usam a animação de beber um frasco de água.
 - **Correções ritualísticas:** Crânio consumido, Osso com lodo, Coração de Sangue e tomo de conhecimento recebem novos nomes. Dilacerar passa a atingir um único alvo, causar 6 de dano de Sangue e aplicar Sangramento por 6 segundos, sem curar o jogador.
+- **Maldições:** Lancinante converte o dano principal da arma em Sangue; Atemporal, em Morte; e Volátil, em Energia. Seus bônus e efeitos anteriores permanecem.
+- **Amaldiçoar Arma:** os quatro rituais agora aceitam uma arma em qualquer mão. Com duas armas equipadas, apenas a da mão direita recebe o efeito.
+- **Identidade visual:** adiciona o novo logotipo como ícone do mod na lista de mods do Minecraft.
 
 [⬇️ Baixar v0.3.1](https://github.com/coffezada-cell/espiral-mod/releases/download/v0.3.1/espiral-arsenal-fabric-0.3.1.jar) · [Ver detalhes da release](https://github.com/coffezada-cell/espiral-mod/releases/tag/v0.3.1)
 
