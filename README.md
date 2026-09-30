@@ -15,7 +15,7 @@ Adiciona oito alimentos com efeitos próprios, recuperação de PE e lore no inv
 - **Desértica** restaura 4 PE e causa náusea por 3 segundos. **Rubra** restaura 4 PE, causa náusea e saturação por 3 segundos, dá Força II e ativa Ódio Incontrolável por 40 segundos. Quando o ódio termina, começa a Dependência por 1 minuto; cada uso posterior da Rubra aumenta esse tempo em 30 segundos. **Vomitar Peste** redefine a dependência para 1 minuto.
 - **Ganja** restaura 15 PE e causa náusea, fome II, fraqueza II e fadiga II por 7 segundos; tem 2 de durabilidade. **Maiser** restaura 4 PE, causa náusea por 4 segundos e 1 de dano. **Corotinho Sdol** restaura de 2 a 6 PE, causa náusea por 7 segundos e 2 de dano.
 - **BomBoro** causa 1 de dano e sua recuperação de PE diminui a cada uso: começa em 4, pode chegar a valores negativos e volta a 4 quando o jogador dorme. Tem 4 de durabilidade. **Manteiga na Manteiga** restaura 20 de fome, 20 de saturação e 5 PE; após 5 minutos, remove 10 PE e causa fome II por 4 segundos. **Paçoca** restaura 1 pernil de fome, 10 de saturação e 8 PE.
-- Adiciona a aba criativa **Espiral: Alimentos**. Os ícones usam texturas provisórias de itens vanilla.
+- Adiciona a aba criativa **Espiral: Alimentos** e aplica as texturas próprias enviadas. Maiser, Desértica e Corotinho Sdol usam a animação de beber um frasco de água.
 
 [⬇️ Baixar v0.3.1](https://github.com/coffezada-cell/espiral-mod/releases/download/v0.3.1/espiral-arsenal-fabric-0.3.1.jar) · [Ver detalhes da release](https://github.com/coffezada-cell/espiral-mod/releases/tag/v0.3.1)
 
