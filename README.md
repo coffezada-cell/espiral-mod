@@ -8,9 +8,9 @@ Mod para **Minecraft Java 1.20.1**, feito com **Fabric**. Confira as novidades d
 
 ## 📰 Atualizações
 
-### 🆕 v0.3.1 · Novos alimentos e efeitos
+### 🆕 v0.3.1 · Alimentos, Punhal X e novos visuais
 
-Adiciona oito alimentos com efeitos próprios, recuperação de PE e lore no inventário.
+Adiciona oito alimentos, amplia o arsenal com o Punhal X e atualiza modelos, texturas e efeitos visuais.
 
 - **Desértica** restaura 4 PE e causa náusea por 3 segundos. **Rubra** restaura 4 PE, causa náusea e saturação por 3 segundos, dá Força II e ativa Ódio Incontrolável por 40 segundos. Quando o ódio termina, começa a Dependência por 1 minuto; cada uso posterior da Rubra aumenta esse tempo em 30 segundos. **Vomitar Peste** redefine a dependência para 1 minuto.
 - **Ganja** restaura 15 PE e causa náusea, fome II, fraqueza II e fadiga II por 7 segundos; tem 2 de durabilidade. **Maiser** restaura 4 PE, causa náusea por 4 segundos e 1 de dano. **Corotinho Sdol** restaura de 2 a 6 PE, causa náusea por 7 segundos e 2 de dano.
@@ -20,6 +20,10 @@ Adiciona oito alimentos com efeitos próprios, recuperação de PE e lore no inv
 - **Maldições:** Lancinante converte o dano principal da arma em Sangue; Atemporal, em Morte; e Volátil, em Energia. Seus bônus e efeitos anteriores permanecem.
 - **Amaldiçoar Arma:** os quatro rituais agora aceitam uma arma em qualquer mão. Com duas armas equipadas, apenas a da mão direita recebe o efeito.
 - **Identidade visual:** adiciona o novo logotipo como ícone do mod na lista de mods do Minecraft.
+- **Punhal X:** nova arma de categoria 2 com 6 de dano base, 10% de chance crítica e mais 2 de dano ao atacar agachado. Sua habilidade consome 4 PE e cria uma marca em uma área 3×3 no chão: o primeiro alvo que entrar recebe 20 de dano. A marca dura até 40 segundos, e é possível manter até três marcas ao mesmo tempo.
+- **Rituais e partículas:** adiciona marcas X animadas e novos efeitos de raio de Energia. Armas 3D amaldiçoadas por rituais agora exibem um visual do elemento correspondente: Sangue, Morte, Energia ou Conhecimento.
+- **Modelos e texturas:** atualiza as bancadas, Arcabuz, Punhal, Kemi, Sniper, Marreta e Escudoskate, incluindo sua aparência ao bloquear. Também renova ícones de efeitos, elementos da interface, miras, ladrilhos de barro, papel de ritual de Conhecimento e pinturas.
+- **Kemi:** chance crítica base ajustada para 20%, inclusive na indicação do HUD.
 
 [⬇️ Baixar v0.3.1](https://github.com/coffezada-cell/espiral-mod/releases/download/v0.3.1/espiral-arsenal-fabric-0.3.1.jar) · [Ver detalhes da release](https://github.com/coffezada-cell/espiral-mod/releases/tag/v0.3.1)
 
