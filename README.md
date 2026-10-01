@@ -16,7 +16,8 @@ Adiciona oito alimentos, amplia o arsenal com o Punhal X e atualiza modelos, tex
 - **Ganja** restaura 15 PE e causa náusea, fome II, fraqueza II e fadiga II por 7 segundos; tem 2 de durabilidade. **Maiser** restaura 4 PE, causa náusea por 4 segundos e 1 de dano. **Corotinho Sdol** restaura de 2 a 6 PE, causa náusea por 7 segundos e 2 de dano.
 - **BomBoro** causa 1 de dano e sua recuperação de PE diminui a cada uso: começa em 4, pode chegar a valores negativos e volta a 4 quando o jogador dorme. Tem 4 de durabilidade. **Manteiga na Manteiga** restaura 20 de fome, 20 de saturação e 5 PE; após 5 minutos, remove 10 PE e causa fome II por 4 segundos. **Paçoca** restaura 1 pernil de fome, 10 de saturação e 8 PE.
 - Adiciona a aba criativa **Espiral: Alimentos** e aplica as texturas próprias enviadas. Maiser, Desértica e Corotinho Sdol usam a animação de beber um frasco de água.
-- **Correções ritualísticas:** Crânio consumido, Osso com lodo, Coração de Sangue e tomo de conhecimento recebem novos nomes. Dilacerar passa a atingir um único alvo, causar 6 de dano de Sangue e aplicar Sangramento por 6 segundos, sem curar o jogador.
+- **Correções ritualísticas:** Crânio consumido, Osso com lodo e Coração de Sangue recebem novos nomes. Dilacerar passa a atingir um único alvo, causar 6 de dano de Sangue e aplicar Sangramento por 6 segundos, sem curar o jogador.
+- **Componentes de Conhecimento:** o Livro de São Cipriano mantém sua identidade e textura originais; o Tomo de Conhecimento é um item separado, com textura própria. Ambos servem para recarregar a bolsa de Conhecimento.
 - **Maldições:** Lancinante converte o dano principal da arma em Sangue; Atemporal, em Morte; e Volátil, em Energia. Seus bônus e efeitos anteriores permanecem.
 - **Amaldiçoar Arma:** os quatro rituais agora aceitam uma arma em qualquer mão. Com duas armas equipadas, apenas a da mão direita recebe o efeito.
 - **Identidade visual:** adiciona o novo logotipo como ícone do mod na lista de mods do Minecraft.
@@ -24,6 +25,7 @@ Adiciona oito alimentos, amplia o arsenal com o Punhal X e atualiza modelos, tex
 - **Rituais e partículas:** adiciona marcas X animadas e novos efeitos de raio de Energia. Armas 3D amaldiçoadas por rituais agora exibem um visual do elemento correspondente: Sangue, Morte, Energia ou Conhecimento.
 - **Modelos e texturas:** atualiza as bancadas, Arcabuz, Punhal, Kemi, Sniper, Marreta e Escudoskate, incluindo sua aparência ao bloquear. Também renova ícones de efeitos, elementos da interface, miras, ladrilhos de barro e pinturas.
 - **Correções visuais:** as armas afetadas por rituais exibem o padrão elemental sobre sua textura, como uma camada de encantamento, sem o preto e rosa. Os papéis de ritual de Conhecimento recuperam a textura original; a textura nova pertence ao Tomo de Conhecimento, componente que recarrega a bolsa do elemento.
+- **Bancadas:** corrige laterais esticadas da Ritualística, o posicionamento visual dos objetos da Modificadora e a rotação das bancadas conforme a direção de colocação. O círculo da Ritualística também acompanha a orientação do bloco.
 - **Kemi:** chance crítica base ajustada para 20%, inclusive na indicação do HUD.
 
 [⬇️ Baixar v0.3.1](https://github.com/coffezada-cell/espiral-mod/releases/download/v0.3.1/espiral-arsenal-fabric-0.3.1.jar) · [Ver detalhes da release](https://github.com/coffezada-cell/espiral-mod/releases/tag/v0.3.1)
