@@ -22,7 +22,8 @@ Adiciona oito alimentos, amplia o arsenal com o Punhal X e atualiza modelos, tex
 - **Identidade visual:** adiciona o novo logotipo como ícone do mod na lista de mods do Minecraft.
 - **Punhal X:** nova arma de categoria 2 com 6 de dano base, 10% de chance crítica e mais 2 de dano ao atacar agachado. Sua habilidade consome 4 PE e cria uma marca em uma área 3×3 no chão: o primeiro alvo que entrar recebe 20 de dano. A marca dura até 40 segundos, e é possível manter até três marcas ao mesmo tempo.
 - **Rituais e partículas:** adiciona marcas X animadas e novos efeitos de raio de Energia. Armas 3D amaldiçoadas por rituais agora exibem um visual do elemento correspondente: Sangue, Morte, Energia ou Conhecimento.
-- **Modelos e texturas:** atualiza as bancadas, Arcabuz, Punhal, Kemi, Sniper, Marreta e Escudoskate, incluindo sua aparência ao bloquear. Também renova ícones de efeitos, elementos da interface, miras, ladrilhos de barro, papel de ritual de Conhecimento e pinturas.
+- **Modelos e texturas:** atualiza as bancadas, Arcabuz, Punhal, Kemi, Sniper, Marreta e Escudoskate, incluindo sua aparência ao bloquear. Também renova ícones de efeitos, elementos da interface, miras, ladrilhos de barro e pinturas.
+- **Correções visuais:** as armas afetadas por rituais exibem o padrão elemental sobre sua textura, como uma camada de encantamento, sem o preto e rosa. Os papéis de ritual de Conhecimento recuperam a textura original; a textura nova pertence ao Tomo de Conhecimento, componente que recarrega a bolsa do elemento.
 - **Kemi:** chance crítica base ajustada para 20%, inclusive na indicação do HUD.
 
 [⬇️ Baixar v0.3.1](https://github.com/coffezada-cell/espiral-mod/releases/download/v0.3.1/espiral-arsenal-fabric-0.3.1.jar) · [Ver detalhes da release](https://github.com/coffezada-cell/espiral-mod/releases/tag/v0.3.1)
