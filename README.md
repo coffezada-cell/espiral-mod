@@ -8,7 +8,22 @@ Mod para **Minecraft Java 1.20.1**, feito com **Fabric**. Confira as novidades d
 
 ## 📰 Atualizações
 
-### 🆕 v0.3.1 · Alimentos, Punhal X e novos visuais
+### 🆕 v0.3.1 · NPCs, exploração, alimentos e arsenal
+
+#### Novidades do JAR atualizado
+
+- **Agatha, Ivete e Sr. Veríssimo:** novos NPCs com skins, telas de diálogo e lojas próprias. Permanecem imóveis e não aparecem automaticamente no mundo; os ovos de invocação ficam na aba **Espiral: Itens de missão**.
+- **Conversas e presentes:** a primeira conversa apresenta as mecânicas e entrega os presentes uma única vez por jogador. Depois dela, são liberadas as lojas e as falas casuais, incluindo as interações especiais com papagaio e cegueira.
+- **Lojas da Ordem:** Agatha vende rituais, habilidades e itens paranormais; Ivete vende habilidades, armas e munições. Veríssimo oferece missões e mapas, renova suas ofertas a cada 20 minutos e troca relatórios e frascos elementais por créditos.
+- **Modelos slim:** Agatha e Ivete agora usam braços slim, preservando suas skins. O modelo do Veríssimo permanece normal.
+- **Animação de dano corrigida:** os três NPCs deixam de manter os braços e pernas animados indefinidamente após receber golpes. A reação ao dano termina normalmente, sem permitir que sejam empurrados ou saiam do lugar.
+- **Baús elementais:** consomem a chave correspondente e podem ser usados novamente com outra chave. Sorteiam quatro recompensas de uma categoria, com chances iguais entre Armas, Rituais e Habilidades; os itens respeitam o elemento do baú, incluindo opções neutras. Durante os cinco segundos de abertura, exibem as recompensas girando, uma por vez, com partículas e sons de cada elemento. Os itens só ficam disponíveis para coleta ao fechar.
+- **Estruturas:** adiciona oito estruturas elementais e a Ordo Realitas, com colocação manual e geração natural. O posicionamento usa a camada de grama como referência da superfície para preservar as partes subterrâneas.
+- **Mapas elementais:** buscam estruturas do elemento correspondente e exibem suas marcações próprias. O destino é calculado ao abrir o mapa, a partir da posição atual do jogador, não ao comprá-lo. Os mapas das missões indicam o tipo de estrutura na descrição.
+
+> A obtenção do Relatório de Missão ainda será definida; sua troca com Veríssimo já está disponível. A geração automática dos NPCs não foi ativada.
+
+#### Alimentos, arsenal e melhorias anteriores
 
 Adiciona oito alimentos, amplia o arsenal com o Punhal X e atualiza modelos, texturas e efeitos visuais.
 
@@ -150,3 +165,4 @@ A atualização amplia a preparação de rituais e a decoração do mundo.
 ---
 
 Este repositório é destinado à distribuição do mod. O código-fonte e os arquivos de desenvolvimento não são publicados aqui.
+
